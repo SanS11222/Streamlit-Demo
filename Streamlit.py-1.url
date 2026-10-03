@@ -1,2 +1,2 @@
-[InternetShortcut]
-URL=file:///c%3A/Users/Syed%20Inshal%20Ghazi/Nextcloud/Corvit%20Virtual%20Machine/corvit-agentic-ai/Classwork/Streamlit.py
+import streamlit as st
+st.title("Hello!!! welcome to the stream page")
